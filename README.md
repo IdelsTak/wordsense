@@ -1,0 +1,2 @@
+# wordsense
+ WordSense is a JavaFX application that enables users to effortlessly retrieve word definitions from the Merriam-Webster dictionary. With an intuitive interface, users can quickly look up words and receive detailed definitions, including pronunciation, part of speech, and example usage. The application leverages efficient API integration for real-time responses and incorporates error handling for a seamless user experience.
